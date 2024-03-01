@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D/LfHDDSNGPVXQbHLqHJ2xRSFinpB/na6EGO1xKVdzuBv66JJivrZ/TBry8uUIa6kDXqXocLTkKzKXp0W+K4/A==",
+  "dgSpecHash": "OK6PR5DDJR5AX/sipaUrWimJlSksz1YPhPJPqdOc++FkdN1W5NlTAt8n2cQzdo/Y+9cnXjqUfEimERK/VecNfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Praktyka\\Desktop\\praktyki3P2\\Zadanie 5\\Zad5_MVC\\Zad5_MVC\\Zad5_MVC.csproj",
+  "projectFilePath": "D:\\Zad5_MVC\\Zad5_MVC\\Zad5_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Praktyka\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Praktyka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
